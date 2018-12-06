@@ -1,0 +1,6 @@
+﻿  main.cpp
+h:\program2017\snake\snake\main.cpp(65): warning C4244: “参数”: 从“float”转换到“DWORD”，可能丢失数据
+h:\program2017\snake\snake\main.cpp(95): warning C4244: “参数”: 从“float”转换到“DWORD”，可能丢失数据
+  Snake.cpp
+  正在生成代码...
+  snake.vcxproj -> H:\program2017\snake\x64\Debug\snake.exe
